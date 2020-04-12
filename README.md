@@ -1,5 +1,4 @@
 # simple-shell
-==============
 
 Linux shell written in C. The shell executes all Linux internal commands along with a few external commands including:
 
