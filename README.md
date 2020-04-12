@@ -10,5 +10,5 @@ Linux shell written in C. The shell executes all Linux internal commands along w
 
 # Tools
 
-- [CLion] (https://www.jetbrains.com/clion/)
-- [CMake] (https://cmake.org/)
+- [CLion](https://www.jetbrains.com/clion/)
+- [CMake](https://cmake.org/)
