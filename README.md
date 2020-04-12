@@ -7,3 +7,8 @@ Linux shell written in C. The shell executes all Linux internal commands along w
 * `history`: to get history of the last 20 indexed commands
 * `!number`: to execute a command from history through its index
 * `alias`: to create aliases for internal commands or others
+
+# Tools
+
+- [CLion] (https://www.jetbrains.com/clion/)
+- [CMake] (https://cmake.org/)
