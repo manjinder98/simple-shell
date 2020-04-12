@@ -1,0 +1,8 @@
+.idea/
+cmake-build-debug/
+/cmake-build-debug/
+/.settings/
+/_windows/
+/codestyles/
+/Debug/
+*.xml
